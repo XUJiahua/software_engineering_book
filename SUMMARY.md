@@ -13,7 +13,8 @@
 
 ## 软件开发
 
-* [Untitled](ruan-jian-kai-fa/untitled.md)
+* [敏感信息处理](ruan-jian-kai-fa/untitled.md)
+* [Linux OOM Killer](ruan-jian-kai-fa/linux-oom-killer.md)
 
 ## 数据库
 
