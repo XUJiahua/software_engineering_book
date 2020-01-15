@@ -13,9 +13,10 @@
 
 ## 软件开发
 
-* [敏感信息处理](ruan-jian-kai-fa/untitled.md)
+* [信息安全](ruan-jian-kai-fa/untitled.md)
 * [Linux OOM Killer](ruan-jian-kai-fa/linux-oom-killer.md)
 * [前端开发](ruan-jian-kai-fa/qian-duan-kai-fa.md)
+* [区块链技术](ruan-jian-kai-fa/qu-kuai-lian-ji-shu.md)
 
 ## 数据库
 
